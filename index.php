@@ -5,7 +5,7 @@ $max = 99999999999999999;
 // A variable which stores line break
 $space = "<br><br>";
 
-// A variable that stores vertical lines
+// A variable that stores horizontal lines
 $line = "<hr>";
 
 for ($i = 0; $i < rand(220, 250); $i++) {
